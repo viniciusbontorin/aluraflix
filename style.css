@@ -13,4 +13,10 @@ section{
     background: rgb(202, 77, 181);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{ 
+    margin-right: 20px;
 }
