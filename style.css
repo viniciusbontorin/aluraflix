@@ -9,10 +9,11 @@ header{
     padding: 20px;
     font-size: 32px;
 }
+
 section{
     background: rgb(202, 77, 181);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
     display: flex;
     justify-content: center;
 }
